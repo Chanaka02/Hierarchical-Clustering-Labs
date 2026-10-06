@@ -1,13 +1,13 @@
 # Hierarchical-Clustering-Labs
 
-# IT 2404: Intelligent Systems & Machine Learning - Practical 8
+Intelligent Systems & Machine Learning 
 
-This repository contains the implementation of **Hierarchical (Agglomerative) Clustering** algorithms as part of the IT 2404 module at the Institute of Technology, University of Moratuwa. 
+This repository contains the implementation of **Hierarchical (Agglomerative) Clustering** algorithms 
 
 ## 📋 Project Overview
 The lab focuses on implementing unsupervised machine learning techniques to group data points based on their hierarchical relationships. It is divided into two core tasks:
 
-### Task 1: Customer Segmentation
+### 1: Customer Segmentation
 * **Dataset:** `Mall_Customers.csv`
 * **Objective:** Segment mall customers based on their Annual Income and Spending Score.
 * **Methodology:** 
@@ -17,7 +17,7 @@ The lab focuses on implementing unsupervised machine learning techniques to grou
   * Fitting an `AgglomerativeClustering` model with 5 clusters using Euclidean distance.
   * Visualizing results with a Seaborn scatter plot and interpreting cluster averages.
 
-### Task 2: Iris Flower Classification
+### 2: Iris Flower Classification
 * **Dataset:** `Iris.csv`
 * **Objective:** Cluster Iris flower samples using physical measurements and compare groups against their actual biological species.
 * **Methodology:** 
